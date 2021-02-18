@@ -1,0 +1,3 @@
+> Inside data have ",", so file csv format is difficulity to handel so i created tsv Files to manipulate data
+> Duplicate Field in Discontinued from (Size)
+> Information file empty rows.
